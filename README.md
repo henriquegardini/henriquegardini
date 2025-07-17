@@ -16,13 +16,13 @@
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=java,docker,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,docker,terraform,aws,azure)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,rabbitmq,kafka,mongodb,mysql,postgres)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,intellij,vscode,postman,insomnia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,postman)](https://skillicons.dev)
 
 
 
