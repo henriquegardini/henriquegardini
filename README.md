@@ -1,21 +1,20 @@
 # Olá, eu sou o Henrique!
 <p align="left">
-  Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
- Tenho focado meus estudos em <strong>Java.js</strong> e <strong>Spring</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenhario de Software.
+ Desenvolvedor em contante formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
+ Tenho focado meus estudos em <strong>Java</strong> e com <strong>Spring</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
 </p>
 
 ## Sobre mim
 
-- 🖥️ Técnica em Processamento de Dados pelo Colégio Galvão
-- 🎓 Graduanda em Analise e Desenvolvimento de Sistemas na Unisantanna
-- 🎓 Pós-graduanda em Arquitetura e Desenvolvimento Java na FIAP
+- 🖥️ Técnico em Processamento de Dados pelo Colégio Galvão
+- 🎓 Graduado em Analise e Desenvolvimento de Sistemas pela Unisantanna
+- 🎓 Pós-graduado em Arquitetura e Desenvolvimento Java pela FIAP
 - 📚 Estudando Java, Spring e computação em nuvem
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software
 
 ---
 
 ## Tecnologias e linguagens 💻
-
 [![My Skills](https://skillicons.dev/icons?i=java,maven,docker,terraform,aws,azure)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
@@ -24,21 +23,15 @@
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,postman)](https://skillicons.dev)
 
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou formado como <strong>Analista e Desenvolvedor de sistemas</strong> pela Unisantanna, <strong>Arquiteto e Desenvolvedor Java</strong> pela FIAP. <br><br>
-  Tenho me aprofundado em <strong>Java</strong>, com foco em <strong>Spring Boot</strong> para back-end. Também venho explorando tecnologias como <strong>Docker</strong> e <strong>cloud computing</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
-  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+ Sou formado como <strong>Analista e Desenvolvedor de sistemas</strong> pela Unisantanna, <strong>Arquiteto e Desenvolvedor Java</strong> pela FIAP. <br><br>
+ Tenho me aprofundado em <strong>Java</strong>, com foco em <strong>Spring Boot</strong> para back-end. Também venho explorando tecnologias como <strong>Docker</strong> e <strong>Cloud Computing</strong>, aplicando esses conhecimentos em projetos profissionais, acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
+ Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
 
-
-
-<p align="left">
-
-</p>
+<p align="left"></p>
 
 <p align="left">
   Vamos nos conectar? Me siga no LinkedIn! 💌✨
