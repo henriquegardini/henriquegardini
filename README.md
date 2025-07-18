@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,maven,docker,terraform,aws,azure)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=spring,rabbitmq,kafka,mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,rabbitmq,mongodb,mysql,postgres)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,postman)](https://skillicons.dev)
