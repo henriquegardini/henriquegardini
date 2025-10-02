@@ -6,6 +6,8 @@
 
 ## Sobre mim
 
+Sou formado como Técnico em Processamento de Dados, Tecnólogo em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Arquitetura e Desenvolvimento Java, conto com uma sólida trajetória de quase duas décadas por empresas de referência como as consultorias Accenture, Vivere, Foursys e o Banco Itaú-Unibanco.
+
 - 🖥️ Técnico em Processamento de Dados pelo Colégio Galvão
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Unisantanna
 - 🎓 Pós-graduado em Arquitetura e Desenvolvimento Java pela FIAP
