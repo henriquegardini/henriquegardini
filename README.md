@@ -11,6 +11,7 @@ Sou formado como Técnico em Processamento de Dados, Tecnólogo em Análise e De
 - 🖥️ Técnico em Processamento de Dados pelo Colégio Galvão
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Unisantanna
 - 🎓 Pós-graduado em Arquitetura e Desenvolvimento Java pela FIAP
+- 🏅 Certificação Microsoft AZ-900: Conceitos Básicos do Azure
 - 📚 Estudando Java, Spring Boot e computação em nuvem
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software
 
